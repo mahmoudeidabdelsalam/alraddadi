@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="505px" height="140px" viewBox="0 0 505 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#2F2F2F" offset="0%"></stop>
+            <stop stop-color="#151515" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(0.000000, -12.000000)">
+            <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="12" width="140" height="140" rx="20"></rect>
+            <text id="U" font-family="Poppins-Regular, Poppins" font-size="120" font-weight="normal" line-spacing="120" letter-spacing="0.857143581" fill="#FFFFFF" fill-opacity="0.51636096">
+                <tspan x="30" y="138">U</tspan>
+            </text>
+            <text id="ULTRA" font-family="Poppins-Regular, Poppins" font-size="120" font-weight="normal" letter-spacing="0.8571436" fill="#000000" fill-opacity="0.51636096">
+                <tspan x="160.274282" y="126">ULTRA</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
